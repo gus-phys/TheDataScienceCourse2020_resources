@@ -1,4 +1,4 @@
-# The Data Science Course 2020 resourses
+# The Data Science Course 2020 resources
 
 * Part 3 - [Statistics](https://github.com/gus-phys/TheDataScienceCourse2020_resourses/tree/main/3_-_Statistics)
 * Part 4 - [Python](https://github.com/gus-phys/TheDataScienceCourse2020_resourses/tree/main/4_-_Python)
